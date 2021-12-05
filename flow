@@ -1,57 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-11-24T12:54:32.534Z" agent="5.0 (X11)" etag="mQHDnnI9HfO00E3Ds2ND" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-05T13:58:23.913Z" agent="5.0 (X11)" etag="RTBKRAqBEL3Q71lvhFe-" version="15.8.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="953" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2382" dy="1477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="zd2srlb1vjWtCb84tVTc-14" value="注册" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zd2srlb1vjWtCb84tVTc-0" target="zd2srlb1vjWtCb84tVTc-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zd2srlb1vjWtCb84tVTc-0" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="70" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zd2srlb1vjWtCb84tVTc-1" value="展示分数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zd2srlb1vjWtCb84tVTc-3" value="填表" style="endArrow=classic;html=1;rounded=0;exitX=0.462;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zd2srlb1vjWtCb84tVTc-0" target="zd2srlb1vjWtCb84tVTc-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="370" as="sourcePoint" />
-            <mxPoint x="240" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zd2srlb1vjWtCb84tVTc-6" value="上传/获取历史信息/获取地理信息" style="endArrow=classic;html=1;rounded=0;exitX=0.465;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zd2srlb1vjWtCb84tVTc-1" target="zd2srlb1vjWtCb84tVTc-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="370" as="sourcePoint" />
-            <mxPoint x="270" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zd2srlb1vjWtCb84tVTc-9" value="接受注册" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zd2srlb1vjWtCb84tVTc-7" target="zd2srlb1vjWtCb84tVTc-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zd2srlb1vjWtCb84tVTc-15" value="拒绝" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zd2srlb1vjWtCb84tVTc-7" target="zd2srlb1vjWtCb84tVTc-0">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="160" y="350" />
-              <mxPoint x="160" y="100" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zd2srlb1vjWtCb84tVTc-17" value="已经注册" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zd2srlb1vjWtCb84tVTc-7" target="zd2srlb1vjWtCb84tVTc-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zd2srlb1vjWtCb84tVTc-7" value="是否注册" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="310" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="zd2srlb1vjWtCb84tVTc-12" value="&lt;div&gt;数据库上传&lt;/div&gt;&lt;div&gt;id/地理信息&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="70" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zd2srlb1vjWtCb84tVTc-16" value="获取历史信息和地理信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="460" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zd2srlb1vjWtCb84tVTc-18" value="数据整体分析取平均值存储" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zd2srlb1vjWtCb84tVTc-12" target="zd2srlb1vjWtCb84tVTc-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="IVfz69vCcJ7qae666ahl-0" value="&lt;div&gt;学生&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="80" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
